@@ -1,0 +1,8 @@
+Aplicatie cloud de tipul SaaS
+
+SaaS este un serviciu cloud unde clienții pot accesa aplicații din internet.
+O aplicatie cloud de tipul SaaS este Facebook, unde utilizatorii accesează serviciile pe orice dispozitiv conectat la internet.
+Utilizare pe mai multe dispozitive, față de un software cumpărat, destinat unui singur tip de dispozitiv, soft-urile online pot fi accesate de pe orice device conectat la internet, fie că este laptop, PC, tabletă sau telefon, asigurând utilizatorului o mobilitate crescută.
+Fără costuri de instalare și configurare, aplicația e gata de utilizare pentru utilizatori.
+Update-uri automate. Atunci când este disponibilă o actualizare a soft-ului, aceasta se face automat pe server și este oferită utilizatorului (in prealabil pe aplicatiile desktop).
+Accesibil de oriunde. Un soft online se poate accesa din orice loc cu acces la internet, utilizatorul nu este blocat din acest punct de vedere la locația unde a fost instalat un program.
