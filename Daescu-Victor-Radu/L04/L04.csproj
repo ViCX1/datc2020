@@ -3,6 +3,11 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>console_storage</RootNamespace>
   </PropertyGroup>
+
+  <ItemGroup>
+  <PackageReference Include="WindowsAzure.Storage" Version="9.3.3"/>
+  </ItemGroup>
 
 </Project>
